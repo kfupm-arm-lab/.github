@@ -34,6 +34,8 @@ Our research covers a wide range of topics, including but not limited to:
 ## Collaboration & Contributions 🤝  
 The **ARM Research Lab** welcomes collaboration with students, faculty, and external researchers. Contributors are encouraged to document their progress, share insights, and maintain an updated documentation of their work in the [ARM Wiki](https://github.com/kfupm-arm-lab/arm-wiki).  
 
-For details on setting up a Developer Environment (Toolchain), visit the **[Toolchain Installation](Toolchain-Installation.md)** Page.  
+Contact Ramy Rashad **(ramy.rashad (at) kfupm.edu.sa)** to get access to our Github Repositories.
+
+For details on setting up a Developer Environment (Toolchain), visit the **Toolchain Installation** Page in the Wiki.  
 
 🚀 *Join us as we push the boundaries of robotics research and innovation!*  
