@@ -32,8 +32,8 @@ Our research covers a wide range of topics, including but not limited to:
 - Translate fundamental research into **real-world applications**, particularly in agriculture, logistics, and other constrained environments.  
 
 ## Collaboration & Contributions 🤝  
-The **ARM Research Lab** welcomes collaboration with students, faculty, and external researchers. Contributors are encouraged to document their progress, share insights, and maintain an updated documentation of their work in this **ARM Wiki**.  
+The **ARM Research Lab** welcomes collaboration with students, faculty, and external researchers. Contributors are encouraged to document their progress, share insights, and maintain an updated documentation of their work in the [ARM Wiki](https://github.com/kfupm-arm-lab/arm-wiki).  
 
-For details on ongoing projects and research tasks, visit the **[Research Projects Page](Research-Projects.md)**.  
+For details on setting up a Developer Environment (Toolchain), visit the **[Toolchain Installation](Toolchain-Installation.md)** Page.  
 
 🚀 *Join us as we push the boundaries of robotics research and innovation!*  
