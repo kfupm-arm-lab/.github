@@ -1,4 +1,4 @@
-# Overview of the ARM Research Lab TEST
+# Overview of the ARM Research Lab
 
 The **ARM Research Lab** at King Fahd University of Petroleum and Minerals **(KFUPM)** is dedicated to advancing research in **Autonomous Robotic Manipulation**. Our focus is on developing **robotic manipulators** capable of operating in constrained environments with high precision and can collaborate with other robots and humans. Our research addresses both the theoretical aspect of robotic manipulation, including dynamic modeling and control system design, as well as practical aspects, including hardware and software integration and real-world testing.
 
