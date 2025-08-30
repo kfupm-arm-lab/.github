@@ -35,7 +35,8 @@ Our research covers a wide range of topics, including but not limited to:
 - Translate fundamental research into **real-world applications**, particularly in agriculture, logistics, and other constrained environments.  
 
 ## Collaboration & Contributions 🤝  
-The **ARM Research Lab** welcomes collaboration with students, faculty, and external researchers. Contributors are encouraged to document their progress, share insights, and maintain an updated documentation of their work in the [ARM Wiki](https://github.com/kfupm-arm-lab/arm-wiki).  
+The **ARM4L Research Lab** welcomes collaboration with students, faculty, and external researchers. Contributors are encouraged to document their progress, share insights, and maintain an updated documentation of their work in the [ARM Wiki](https://github.com/kfupm-arm-lab/arm-wiki).
+For more information about the IRC-SML visit their [website](https://ri.kfupm.edu.sa/irc-sml).
 
 Contact Ramy Rashad **(ramy.rashad (at) kfupm.edu.sa)** to get access to our Github Repositories.
 
