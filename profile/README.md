@@ -4,6 +4,9 @@ The **ARM4L Research Lab** at King Fahd University of Petroleum and Minerals **(
 
 ![ARM Research Overview](arm_research_overview.png)
 
+<img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/f1e7ba27-6ee6-4dc9-a637-6d87a98376a9" />
+
+
 ## Research Areas 📌 
 Our research covers a wide range of topics, including but not limited to:  
 
